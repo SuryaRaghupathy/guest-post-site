@@ -1,8 +1,9 @@
 // Use Vite's import.meta.glob to bundle markdown files at build time
-// The 'as: "raw"' option imports the content as a string
+// The 'query: "?raw"' option imports the content as a string
 // 'eager: true' makes the imports synchronous
 const modules = import.meta.glob('../../../content/posts/*.md', {
-  as: 'raw',
+  query: '?raw',
+  import: 'default',
   eager: true,
 });
 
@@ -21,8 +22,7 @@ export const posts: BlogPost[] = Object.entries(modules)
   .map(([path, content]) => {
     const rawContent = content as string;
 
-    // Simple parser for demonstration or fallback, but user requested gray-matter
-    // We'll use a regex-based parser that mimics gray-matter's behavior safely in the browser
+    // Simple parser that mimics gray-matter safely in the browser
     const match = rawContent.match(/^---\s*([\s\S]*?)\s*---([\s\S]*)$/);
     const frontmatter = match ? match[1] : '';
     const body = match ? match[2].trim() : rawContent;
