@@ -1,10 +1,9 @@
-
 // Use Vite's import.meta.glob to bundle markdown files at build time
 // The 'query: "?raw"' option imports the content as a string
 // 'eager: true' makes the imports synchronous
-const modules = import.meta.glob("../../../content/posts/*.md", {
-  query: "?raw",
-  import: "default",
+const modules = import.meta.glob('../../../content/posts/*.md', {
+  query: '?raw',
+  import: 'default',
   eager: true,
 });
 
@@ -25,25 +24,26 @@ export const posts: BlogPost[] = Object.entries(modules)
 
     // Simple frontmatter parser since gray-matter needs Buffer/Node environment
     const match = rawContent.match(/^---\s*([\s\S]*?)\s*---([\s\S]*)$/);
-    const frontmatter = match ? match[1] : "";
+    const frontmatter = match ? match[1] : '';
     const body = match ? match[2].trim() : rawContent;
 
     const data: Record<string, string> = {};
-    frontmatter.split("\n").forEach((line) => {
-      const [key, ...value] = line.split(":");
+    frontmatter.split('\n').forEach((line) => {
+      const [key, ...value] = line.split(':');
       if (key && value.length > 0) {
-        data[key.trim()] = value.join(":").trim();
+        // Remove quotes from values if present
+        data[key.trim()] = value.join(':').trim().replace(/^["'](.*)["']$/, '$1');
       }
     });
 
-    const slug = path.split("/").pop()?.replace(".md", "") || "";
+    const slug = path.split('/').pop()?.replace('.md', '') || '';
 
     return {
       slug,
       content: body,
-      title: data.title || "",
-      description: data.description || "",
-      date: data.date || "",
+      title: data.title || '',
+      description: data.description || '',
+      date: data.date || '',
       category: data.category,
       author: data.author,
       featuredImage: data.featuredImage,
