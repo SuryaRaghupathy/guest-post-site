@@ -45,14 +45,12 @@ export function Header() {
               {item.label}
             </Link>
           ))}
-          <a 
-            href="https://github.com" 
-            target="_blank" 
-            rel="noreferrer"
+          <Link
+            href="/subscribe"
             className="ml-4 px-4 py-2 bg-primary text-primary-foreground rounded-full text-sm font-medium hover:bg-primary/90 transition-all hover:shadow-lg hover:shadow-primary/25"
           >
             Subscribe
-          </a>
+          </Link>
         </nav>
 
         {/* Mobile Menu Toggle */}
@@ -81,9 +79,13 @@ export function Header() {
                 {item.label}
               </Link>
             ))}
-            <button className="w-full mt-4 px-4 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90">
+            <Link
+              href="/subscribe"
+              className="w-full mt-4 px-4 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 text-center"
+              onClick={() => setMobileMenuOpen(false)}
+            >
               Subscribe
-            </button>
+            </Link>
           </div>
         </div>
       )}
