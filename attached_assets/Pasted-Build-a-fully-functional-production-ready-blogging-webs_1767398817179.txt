@@ -1,0 +1,143 @@
+Build a fully functional, production-ready blogging website using Next.js (latest App Router) that can scale to 1,000+ blog posts while allowing extremely easy content management.
+
+MOST IMPORTANT REQUIREMENT
+
+I must be able to add, edit, or delete blog posts simply by creating, editing, or deleting Markdown (.md) files.
+No database, no admin dashboard, no code changes after setup.
+
+TECH STACK (MANDATORY)
+
+Next.js (App Router)
+
+TypeScript
+
+Tailwind CSS
+
+Markdown-based content system
+
+CONTENT MANAGEMENT SYSTEM (CRITICAL)
+
+All blog posts must live inside:
+
+/content/posts/
+
+
+Each Markdown file = ONE blog post
+
+Site must automatically update blog listings, category pages, and routes when files change
+
+MARKDOWN FRONTMATTER (STRICT)
+
+Each blog post must support:
+
+---
+title: "Post title"
+slug: "post-slug"
+description: "SEO meta description"
+category: "Technology | Lifestyle | Business | Education | Real Estate"
+author: "Admin"
+date: "YYYY-MM-DD"
+featuredImage: "/images/sample.jpg"
+---
+
+BLOG CATEGORIES (FIXED)
+
+Technology
+
+Lifestyle
+
+Business
+
+Education
+
+Real Estate
+
+REQUIRED ROUTES
+/
+/blog
+/blog/[slug]
+/category/[category]
+/about
+/contact
+
+DESIGN & UX
+
+Clean, professional Medium/Ghost-style blog theme
+
+Content-first layout
+
+Excellent readability
+
+Fully responsive
+
+Minimal UI, no heavy animations
+
+NAVIGATION
+
+Sticky header
+
+Category links in header
+
+Mobile-friendly menu
+
+SEO (MANDATORY)
+
+Next.js Metadata API
+
+Dynamic title & description per page
+
+Semantic HTML (main, article, section)
+
+SEO-friendly URLs
+
+Open Graph meta tags
+
+PERFORMANCE & SCALE (VERY IMPORTANT)
+
+Static generation using generateStaticParams
+
+Paginated blog listing (avoid rendering all posts at once)
+
+Optimised fonts and assets
+
+Use next/image for images
+
+COMPONENTS (MUST CREATE)
+
+Header
+
+Footer
+
+PostCard
+
+CategoryBadge
+
+SAMPLE CONTENT (MANDATORY)
+
+Create at least 2 realistic posts per category
+
+Posts must appear correctly on homepage, blog page, and category pages
+
+DELIVERABLE
+
+Project must run immediately with:
+
+npm install
+npm run dev
+
+
+No missing imports
+
+No TODO comments
+
+No broken routes
+
+FINAL VALIDATION
+
+Homepage loads latest posts
+
+Category filtering works
+
+Blog slugs resolve correctly
+
+SEO metadata renders properly
