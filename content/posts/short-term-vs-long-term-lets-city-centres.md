@@ -14,7 +14,7 @@ City centres across the UK have undergone a dramatic transformation in recent ye
 
 **Should you choose short-term lets or long-term lets in today’s city centres?**
 
-Both strategies can be profitable, but the right choice depends on your goals, location, and appetite for involvement. Let’s explore how each performs in modern urban markets and which option may suit you best.
+Both strategies can be profitable, but the right choice depends on your goals, location, and appetite for involvement. If you are researching wider investment approaches, you may also find our guide on [buy-to-let investment strategies in the UK](/blog/buy-to-let-investment-strategies-uk) useful.
 
 ---
 
@@ -27,21 +27,21 @@ In popular urban locations, landlords often seek advice from professional lettin
 ### Benefits of Short-Term Lets
 
 #### Higher income potential  
-Short-term rentals can command premium nightly rates, particularly during peak travel seasons, festivals, or major city events.
+Short-term rentals can command premium nightly rates, particularly during peak travel seasons, festivals, or major city events. This income model is explored further in our article on [maximising rental yield in city-centre properties](/blog/maximising-rental-yield-city-centres).
 
 #### Flexibility for landlords  
 Properties can be used personally between bookings or switched to another rental strategy if market conditions change.
 
 #### Strong city-centre appeal  
-Visitors prioritise convenience, making centrally located properties highly desirable.
+Visitors prioritise convenience, making centrally located properties highly desirable, especially near transport hubs and business districts.
 
 ### Challenges of Short-Term Lets
 
 #### Management intensity  
-Frequent tenant turnover means more time spent on cleaning, maintenance, and guest communication—often requiring professional property management services.
+Frequent tenant turnover means more time spent on cleaning, maintenance, and guest communication—often requiring professional [property management services](/blog/property-management-services-uk).
 
 #### Regulatory pressures  
-Many councils have introduced planning and licensing rules for short-term accommodation, limiting where and how properties can be let.
+Many councils have introduced planning and licensing rules for short-term accommodation. You can read more about this in our guide to [UK short-term letting regulations](/blog/uk-short-term-letting-regulations).
 
 #### Income fluctuations  
 Occupancy levels can vary significantly throughout the year, affecting cash flow predictability.
@@ -52,18 +52,18 @@ Occupancy levels can vary significantly throughout the year, affecting cash flow
 
 Long-term lets typically involve renting a property for six to twelve months or more, usually to professionals, couples, or students working and studying in urban areas.
 
-This remains the most common approach for landlords working with experienced letting agents across the UK.
+This remains the most common approach for landlords working with experienced letting specialists across the UK.
 
 ### Benefits of Long-Term Lets
 
 #### Stable rental income  
-Monthly rent offers reliable cash flow and easier financial planning.
+Monthly rent offers reliable cash flow and easier financial planning, making this option attractive for risk-averse investors.
 
 #### Lower day-to-day involvement  
 With fewer tenant changes, landlords benefit from reduced administrative and maintenance demands.
 
 #### Clearer legal framework  
-Long-term lettings follow well-established regulations, providing greater certainty for landlords.
+Long-term lettings follow well-established regulations, providing greater certainty for landlords. Our overview of [landlord responsibilities in the UK](/blog/landlord-responsibilities-uk) explains this in more detail.
 
 ### Challenges of Long-Term Lets
 
@@ -71,10 +71,10 @@ Long-term lettings follow well-established regulations, providing greater certai
 Rental income is capped by local affordability and market conditions.
 
 #### Reduced flexibility  
-Ending or changing a tenancy requires notice periods and legal processes.
+Ending or changing a tenancy requires notice periods and formal legal processes.
 
 #### Tenant risk  
-Void periods or rent arrears can still affect returns without proper tenant vetting and management.
+Void periods or rent arrears can still affect returns without proper tenant vetting and ongoing management.
 
 ---
 
@@ -83,10 +83,10 @@ Void periods or rent arrears can still affect returns without proper tenant vett
 Several factors are influencing rental strategies in today’s city centres:
 
 ### Remote & Hybrid Working  
-While some renters are moving outward, demand remains strong for flexible, centrally located accommodation—especially for professionals on short-term contracts.
+While some renters are moving outward, demand remains strong for flexible, centrally located accommodation—especially for professionals on short-term contracts. See our analysis on [how remote work is shaping UK rental demand](/blog/remote-working-impact-on-uk-rentals).
 
 ### Rising Living Costs  
-High city-centre rents push long-term tenants to suburbs, but short-term visitors still value prime locations.
+High city-centre rents push long-term tenants to suburban areas, but short-term visitors continue to value prime locations.
 
 ### Increased Regulation  
 Local authorities are prioritising housing availability, making compliance essential—something many landlords navigate with the help of established letting specialists.
@@ -102,7 +102,7 @@ UK city tourism has rebounded strongly, boosting short-term let demand in well-c
 - Your property is in a high-demand tourist or business district  
 - You’re comfortable with variable income  
 - Local council rules permit short-term letting  
-- You can manage the property yourself or via professional agents  
+- You can manage the property yourself or through professional agents  
 
 ### Long-Term Lets May Suit You If:
 - You prefer predictable, steady income  
@@ -110,7 +110,7 @@ UK city tourism has rebounded strongly, boosting short-term let demand in well-c
 - Your property appeals to professionals or students  
 - You’re focused on long-term capital growth  
 
-Many landlords working with **Belvoir’s local offices** choose long-term lets for their reliability, particularly in regulated city markets.
+Many landlords working with [Belvoir letting agents](https://www.belvoir.co.uk/) choose long-term lets for their reliability, particularly in regulated city-centre markets.
 
 ---
 
@@ -123,7 +123,7 @@ An increasing number of landlords are opting for medium-term lets (1–6 months)
 - Remote workers  
 - Postgraduate students  
 
-This approach often delivers higher returns than traditional long-term lets, while avoiding many of the regulatory hurdles associated with short-term rentals.
+This approach often delivers higher returns than traditional long-term lets, while avoiding many of the regulatory hurdles associated with short-term rentals. Learn more in our article on [medium-term lets in the UK rental market](/blog/medium-term-lets-uk).
 
 ---
 
@@ -137,4 +137,4 @@ Your decision should be based on:
 - Personal involvement level  
 - Long-term investment goals  
 
-Speaking with experienced local letting professionals can help you assess your options and maximise returns while remaining compliant. With the right guidance, city-centre properties can continue to perform strongly—whatever strategy you choose.
+Speaking with experienced local letting professionals can help you assess your options and maximise returns while remaining compliant. For more insights, explore our full [Real Estate advice hub](/category/real-estate).
